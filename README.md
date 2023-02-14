@@ -27,7 +27,7 @@ Type the following command in your termimal:
 
 `npm run start`
 
-Then open Insomnia and type http://localhost:3000/ to run this application on your local machine.
+Then open Insomnia and type http://localhost:8080/ to run this application on your local machine.
 
 ## Deployed Link
 
